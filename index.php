@@ -10,15 +10,18 @@
 	<script src="js/script.js"></script>
 	<script src="js/bootstrap.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body style="">
 
+<!-- Chat with chnaging icon and spin done -->
+
 <div class="chat-btn">
-    <div class="">
+    <div class="chat-panel">
         <p></p>
     </div>
-    <div class="">
-
+    <div class="chat-icon" id="clicker">
+        <div class="fa fa-comments"></div>
     </div>
 </div>
 
